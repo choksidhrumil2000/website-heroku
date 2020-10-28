@@ -1,5 +1,5 @@
 <?php
 
-//include_once 'index.html';
-echo 'Hello World!!';
+include_once 'index.html';
+//echo 'Hello World!!';
 ?>
